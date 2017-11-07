@@ -31,6 +31,7 @@ Math programmes
 8. Write a program, which takes two integer operands and one operator form the user,
    performs the operation and then prints the result.
 9. Write a program to determine if the given string is a palindrome or not.
+
 10.Write a  program to construct a pyramid of numbers. 
 11.Write a program to generate Pascal's triangle.
 12.Program to find the Area and Perimeter of a Rectangle.
