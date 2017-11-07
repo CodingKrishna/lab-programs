@@ -10,16 +10,16 @@ Math programmes
 6. How to get min number between two numbers.
 7. How to get exponential value of a number.
 8. Write a C program to find both the largest and smallest number in a list of integers.
-9. print the multiplication table of a given number
-10.To evaluate x^n
+9. print the multiplication table of a given number.
+10.To evaluate x^n.
 11.Program to find area and circumference of circle.
-12.To compute the average of three given numbers 
-13.Program to Check if a Number is Positive, Negative or Zero
+12.To compute the average of three given numbers.
+13.Program to Check if a Number is Positive, Negative or Zero.
 
 
 ## Medium:
 
-1. A Fibonacci Sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by          adding the preceding two terms in the sequence. 
+1. A Fibonacci Sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by        adding the preceding two terms in the sequence. 
 2. Program to calculate the Combinations and Permutations
 3. program to find hcf and lcm
 4. To Find The Roots Of Quadratic Equation
@@ -31,7 +31,6 @@ Math programmes
 8. Write a program, which takes two integer operands and one operator form the user,
    performs the operation and then prints the result.
 9. Write a program to determine if the given string is a palindrome or not.
-
 10.Write a  program to construct a pyramid of numbers. 
 11.Write a program to generate Pascal's triangle.
 12.Program to find the Area and Perimeter of a Rectangle.
