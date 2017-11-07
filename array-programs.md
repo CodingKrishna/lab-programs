@@ -2,31 +2,43 @@ Programs on arrays.
 
 ## Starter: 
 
-0) Print array elements
-1) Print even numbers in array
-2) Print odd numbers in array
-3) Print elements at even index in array
-4) Print elements at odd index in array
-5) Print elements left to right and right to left from middle
-6) Find the index of a given element
-7) 
+1. Print array elements
+2. Print even numbers in array
+3. Print odd numbers in array
+4. Print elements at even index in array
+5. Print elements at odd index in array
+6. Print elements left to right and right to left from middle
+7.  Print the Alternate Elements in an Array
+8. Find the index of a given element
+9. Calculate Sum & Average of an Array 
+
 
 ## Medium:
 
-6) Find the prime numbers in array
-7) Find the sume of all the array elements
-8) Revers elements inside Array.
-9) Find the douplicates elements inside Array 
-10) Copy elements from one array to another array.
-11) Find out the number of repetations of an element in array.
-12) Delete the element from array
-13) Find max number in array
-14) Find second max element in array
-15) Find the nth max element in array
+1. Find the prime numbers in array
+2. Find the sume of all the array elements
+3. Revers elements inside Array.
+4. Find the douplicates elements inside Array 
+5. Find the Number of Non Repeated Elements in an Array
+6. Copy elements from one array to another array.
+7. Find out the number of repetations of an element in array.
+8. Delete the element from array
+9. Find largest number in array
+10. Find second largest element in array
+11. Find the nth max element in array
+12. Insert an Element in a Specified Position in a given Array 
+13. Sort the Array in an Ascending Order 
+14. Sort the Array in Descending Order 
+15 Sort Names in an Alphabetical Order 
 
 ## Complex:
-16) Matrix multiplication
-17) Print the diagonastic elements inside matrix
+1. Cyclically Permute the Elements of an Array
+2. identify missing Numbers in a given Array
+3. Matrix multiplication
+4. Print the diagonastic elements inside matrix
+5. Segregate 0s on Left Side & 1s on right side of the Array
+6. Find 2 Elements in the Array such that Difference between them is Largest
+7. Find the two Elements such that their Sum is Closest to Zero
  
 
 
