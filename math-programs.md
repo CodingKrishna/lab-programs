@@ -30,11 +30,11 @@ Math programmes
 7. Write a program to convert a Roman numeral to its decimal equivalent.
 8. Write a program, which takes two integer operands and one operator form the user,
    performs the operation and then prints the result.
-9. Write a program to determine if the given string is a palindrome or not
+9. Write a program to determine if the given string is a palindrome or not.
 10.Write a  program to construct a pyramid of numbers. 
 11.Write a program to generate Pascal's triangle.
-12.Program to find the Area and Perimeter of a Rectangle
-13.Program to Calculate the Area of a Triangle
+12.Program to find the Area and Perimeter of a Rectangle.
+13.Program to Calculate the Area of a Triangle.
 
 ## Complex:
 
@@ -44,6 +44,6 @@ Math programmes
   iii) Addition of two complex numbers
   iv) Multiplication of two complex numbers (Note: represent complex number using a structure.)
 2.Program to Make a Simple Calculator.
-3. program to find Matrix multiplication
-4. Program to Convert Decimal to Binary, Octal and Hexadecimalc
-5. program to find factorial
+3.program to find Matrix multiplication
+4.Program to Convert Decimal to Binary, Octal and Hexadecimalc
+5.program to find factorial
