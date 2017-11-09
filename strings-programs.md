@@ -8,10 +8,10 @@ Programs on Strings
 5. print first non repeated character from String
 6. count number of vowels and consonants in a String
 7. check if String is Palindrome
-8.To print a given string in upper case 
-9.To print a given string in lower case
-10.Reverse a string
-11.Write a program for swapping of two string
+8. To print a given string in upper case 
+9. To print a given string in lower case
+10. Reverse a string
+11. Write a program for swapping of two string
 
 ## Medium:
 1. find the duplicate words and their number of occurrences in a string?
