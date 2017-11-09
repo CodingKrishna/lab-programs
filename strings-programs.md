@@ -29,3 +29,9 @@ Programs on Strings
 2. How to reverse a string using stack
 3. How to search a word inside a string.
 4. To find all substrings of a string
+
+
+Interview Questions
+
+ 1. create a program in java in which when the input given is say
+     input  -- hhllyyjhhh -- output shuld be -- h2l2y2j1h3
