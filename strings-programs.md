@@ -19,10 +19,10 @@ Programs on Strings
 3. program to reverse a string
 4. check whether two strings are anagram or not
 5. return highest occurred character in a String
-6.To delete n Characters from a given position
-7.To compare the two strings 
-8.To Delete all occurrences of Character from the String
-9.To insert a sub-string in to given main string 
+6. To delete n Characters from a given position
+7. To compare the two strings 
+8. To Delete all occurrences of Character from the String
+9. To insert a sub-string in to given main string 
    
 ## Complex
 1. find all permutations of a string
