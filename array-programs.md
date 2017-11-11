@@ -29,7 +29,9 @@ Programs on arrays.
 12. Insert an Element in a Specified Position in a given Array 
 13. Sort the Array in an Ascending Order 
 14. Sort the Array in Descending Order 
-15 Sort Names in an Alphabetical Order 
+15. Sort Names in an Alphabetical Order 
+16. How find the first repeating element in an array of integers
+17. How to rearrange array in alternating positive and negative number
 
 ## Complex:
 1. Cyclically Permute the Elements of an Array
@@ -39,6 +41,7 @@ Programs on arrays.
 5. Segregate 0s on Left Side & 1s on right side of the Array
 6. Find 2 Elements in the Array such that Difference between them is Largest
 7. Find the two Elements such that their Sum is Closest to Zero
- 
-
-
+8. How to find all pairs on integer array whose sum is equal to given number
+9. Write a program to remove duplicates from array
+10. Write a program to find intersection of two sorted arrays
+11. How to find common elements in three sorted array
