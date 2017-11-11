@@ -1,7 +1,8 @@
 Programs on algorithms.
-##
+## Logical 
 1. Rotate Array
 2. Find the lucky number
+3. 
 
 ## CPU Scheduling algorithms
 1. First Come First Serve(FCFS) Scheduling
