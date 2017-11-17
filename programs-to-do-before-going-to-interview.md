@@ -10,3 +10,13 @@ The total is 5
 3. to convert my java program that takes input from the user in the form of roman numerals and converts it to integers and then prints it out. 
 Roman Numerals:  "I V X L"
 Decimal values:   1, 5, 10, 50
+
+4. There are a limited number of players and a limited number of tennis courts. At each round, there can be at most as many matches as there are courts. Nobody plays 2 rounds without a break. Everyone plays a match against everyone else. Produce the schedule that takes as few rounds as possible. (Because of the rule that there must a break between rounds for everyone, there can be a round without matches.) The output for 5 players and 2 courts could be:
+
+ |  1   2   3   4   5
+-|------------------- 
+2|  1   - 
+3|  5   3   - 
+4|  7   9   1   - 
+5|  3   7   9   5   -
+In this output the columns and rows are the player-numbers, and the numbers inside the matrix are the round numbers these two players compete.
