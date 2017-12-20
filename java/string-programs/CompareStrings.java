@@ -1,4 +1,4 @@
-package com.string.starter.programs;
+package com.string.programs;
 
 public class CompareStrings {
 	

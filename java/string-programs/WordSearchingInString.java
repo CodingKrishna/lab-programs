@@ -1,10 +1,10 @@
-package com.string.starter.programs;
+package com.string.programs;
 
 public class WordSearchingInString {
 	
 		   public static void main(String[] args) {
-		      String text = "The cat is on the table";
-		      System.out.print(text.contains("the"));
+		      String text = "pionner Codres";
+		      System.out.print(text.contains("code"));
 		   }
 		}
 

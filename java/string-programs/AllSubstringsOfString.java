@@ -1,8 +1,8 @@
-package com.string.starter.programs;
+package com.string.programs;
+
 import java.util.Scanner;
 public class AllSubstringsOfString {
-	public static void main(String args[])
-	   {
+	public static void main(String args[]){
 	      String string, sub;
 	      int i, c, length;
 	 

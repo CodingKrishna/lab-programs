@@ -1,18 +1,19 @@
-package com.string.starter.programs;
+package com.string.programs;
 
 public class ReturnHighestOccuredCharacter {
 	
 	    static final int ASCII_SIZE = 256;
-	    static char getMaxOccuringChar(String str)
-	    {
+	    static char getMaxOccuringChar(String str){
 	        
 	        int count[] = new int[ASCII_SIZE];
 	      
 	       
 	        int len = str.length();
-	        for (int i=0; i<len; i++)
+	        for (int i=0; i<len; i++){
+	        	
 	            count[str.charAt(i)]++;
-	      
+	        }
+	        
 	        int max = -1;  
 	        char result = ' '; 
 	      
@@ -26,9 +27,8 @@ public class ReturnHighestOccuredCharacter {
 	        return result;
 	    }
 	     
-	    
 	    public static void main(String[] args) {
-	        String str = "sample string";
+	        String str = "pioneerCoders";
 	        System.out.println("Max occurring character is " +
 	                            getMaxOccuringChar(str));
 	    }

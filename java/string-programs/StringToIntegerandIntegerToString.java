@@ -1,11 +1,19 @@
-package com.string.starter.programs;
+package com.string.programs;
 
 public class StringToIntegerandIntegerToString {
+	
 	public static void main(String args[]){  
-		String s="200";  
+		
+		String str="200";  
 		int i=300; 
-		Integer a=Integer.valueOf(s); 
+		/*converting string to int using valueofmethod()*/
+		
+		Integer a=Integer.valueOf(str); 
+		
+		/*converting intiger to string to*/
+		
 		String st=String.format("%d",i);    
+		
 		System.out.println(a);  
 		System.out.println(st);
 	}

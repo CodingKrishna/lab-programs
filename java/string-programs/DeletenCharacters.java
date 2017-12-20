@@ -1,4 +1,4 @@
-package com.string.starter.programs;
+package com.string.programs;
 
 public class DeletenCharacters {
 	 
@@ -7,6 +7,4 @@ public class DeletenCharacters {
 		sb.delete(1,3);  
 		System.out.println(sb);
 	}
-
-	
 }
