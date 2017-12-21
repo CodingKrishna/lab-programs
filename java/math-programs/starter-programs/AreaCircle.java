@@ -8,11 +8,11 @@ public class AreaCircle {
 		// TODO Auto-generated method stub
 		 int radius;
 	        double pi = 3.14, area;
-	        Scanner s = new Scanner(System.in);
-	        System.out.print("Enter radius of circle:");
+	        Scanner s = new Scanner(System.in);//creating object s
+	        System.out.print("Enter radius of circle:");//entering radius value from keyboard
 	        radius = s.nextInt();
-	        area = pi * radius * radius;
-	        System.out.println("Area of circle:"+area);
+	        area = pi * radius * radius;//formula for calculating radius
+	        System.out.println("Area of circle:"+area);//printing the value 
 	}
 
 }

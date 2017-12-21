@@ -4,17 +4,17 @@ import java.util.Scanner;
 public class Pyramid {
 	 public static void main(String[] args)
 	    {
-	        Scanner sc = new Scanner(System.in);
+	        Scanner sc = new Scanner(System.in);//creating the object
 	 
 	        //Taking noOfRows value from the user
 	 
 	        System.out.println("How Many Rows You Want In Your Pyramid?");
 	 
-	        int noOfRows = sc.nextInt();
+	        int noOfRows = sc.nextInt();//stroing the number of rows in a variable
 	 
 	        //Initializing rowCount with 1
 	 
-	        int rowCount = 1;
+	        int rowCount = 1;//initial count to 1
 	 
 	        System.out.println("Here Is Your Pyramid");
 	 
@@ -42,6 +42,6 @@ public class Pyramid {
 	 
 	            rowCount++;
 	        }
-	        sc.close();
+	        sc.close();//closing the object
 	    }
 }

@@ -5,9 +5,9 @@ public class RomanDecimal {
 	 public static void romanToDecimal(java.lang.String romanNumber) {
 	        int decimal = 0;
 	        int lastNumber = 0;
-	        String romanNumeral = romanNumber.toUpperCase();
+	        String romanNumeral = romanNumber.toUpperCase();//converting the given characters to uppercase
 	        for (int x = romanNumeral.length() - 1; x >= 0 ; x--) {
-	            char convertToDecimal = romanNumeral.charAt(x);
+	            char convertToDecimal = romanNumeral.charAt(x);//converting that roman to decimals
 
 	            switch (convertToDecimal) {
 	                case 'M':
@@ -49,7 +49,7 @@ public class RomanDecimal {
 	        System.out.println(decimal);
 	    }
 
-	    public static int processDecimal(int decimal, int lastNumber, int lastDecimal) {
+	    public static int processDecimal(int decimal, int lastNumber, int lastDecimal) {//function fro processing roman characters to decimal
 	        if (lastNumber > decimal) {
 	            return lastDecimal - decimal;
 	        } else {
@@ -58,7 +58,7 @@ public class RomanDecimal {
 	    }
 
 	    public static void main(java.lang.String args[]) {
-	        romanToDecimal("XXX");
+	        romanToDecimal("XXX");//passing roman value 
 	    }
 
 }

@@ -8,9 +8,9 @@ public class ExponentOfNum {
 	
 			// TODO Auto-generated method stub
 		  System.out.println("Enter the  num : ");
-			Scanner sc = new Scanner(System.in);
-			int num = sc.nextInt();
-		     System.out.println("Exponent value of num is: "+Math.getExponent(num));
+			Scanner sc = new Scanner(System.in);//creating an object
+			int num = sc.nextInt();//storing the number in the num variable
+		     System.out.println("Exponent value of num is: "+Math.getExponent(num));//geting the exponent value and printing the value
 	}
 
 }

@@ -8,15 +8,15 @@ public class SimpleInterest {
 		 float p, r, t;
 	        Scanner s = new Scanner(System.in);
 	        System.out.print("Enter the Principal : ");
-	        p = s.nextFloat();
+	        p = s.nextFloat();//storing principal value in p
 	        System.out.print("Enter the Rate of interest : ");
-	        r = s.nextFloat();
+	        r = s.nextFloat();//storing rate of interest value in r
 	        System.out.print("Enter the Time period : ");
-	        t = s.nextFloat();
+	        t = s.nextFloat();//storing time value in t
 	        float si;
-	        si = (r * t * p) / 100;
-	        System.out.print("The Simple Interest is : " + si);
-	        s.close();
+	        si = (r * t * p) / 100;//formula
+	        System.out.print("The Simple Interest is : " + si);//printing the simple interest value
+	        s.close();//closing the object
 	}
 
 }
