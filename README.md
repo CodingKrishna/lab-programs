@@ -1,6 +1,6 @@
 # lab-programs
 
-Must and should do Lab Programs on
+Must and should do Lab programs on
 
 1. Loops
 2. Strings
